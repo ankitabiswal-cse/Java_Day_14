@@ -1,4 +1,4 @@
-public class DivideNumbers {
+public class DivideNumbers   {
     public static void main(String[] args){
 
         int a = 10;
